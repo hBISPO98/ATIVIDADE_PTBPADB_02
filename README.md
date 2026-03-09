@@ -21,4 +21,4 @@ Entregas da disciplina de Programação e Administração de Banco de Dados.
 <br><br><br><br>
 
 ### 5. Consultas SQL
-O arquivo contendo as consultas e as contagens de registros pode ser acessado aqui: [contagem_registros.sql](contagem_registros.sql)
+[Clique aqui para baixar ou visualizar o arquivo contagem_registros.sql](contagem_registros.sql)
